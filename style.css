@@ -1,0 +1,22 @@
+.box{
+	width: 500px;
+	margin: 50px auto;
+	border: 1px solid #5A5A5A;
+	padding: 7px 22px;
+	box-shadow: 0 0 4px 1px rgba(0,0,0,0.3);
+}
+
+.d-none{
+	display: none;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.input_change{
+	width: auto;
+	outline: none;
+	padding: 7px 22px;
+	border-radius: 7px;
+}
